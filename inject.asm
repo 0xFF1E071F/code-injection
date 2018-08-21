@@ -242,6 +242,4 @@ section '.idata' import readable writeable
         GetThreadContext, 'GetThreadContext',\
         SetThreadContext, 'SetThreadContext',\
         ResumeThread, 'ResumeThread',\
-        WriteProcessMemory, 'WriteProcessMemory',\
-        CreateNamedPipe, 'CreateNamedPipeA',\
-        WriteFile, 'WriteFile'
+        WriteProcessMemory, 'WriteProcessMemory'
